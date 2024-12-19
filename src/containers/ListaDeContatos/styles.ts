@@ -17,7 +17,7 @@ export const Container = styled.div`
     border-radius: 5px;
   }
   button {
-    background-color: #dc3545;
+    background-color:rgb(207, 48, 64);
     color: white;
     border: none;
     border-radius: 5px;
